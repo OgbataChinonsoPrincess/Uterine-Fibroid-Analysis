@@ -1,0 +1,199 @@
+Patient_ID,Age_Group,Parity,Education_Level,Primary_Presentation,Uterine_Size,Fibroid_Location,Surgery_Performed,Postoperative_Complication
+UF001,30-39,Nulliparous,Tertiary,Abdominal Pain,18-20 weeks,Intramural,Myomectomy,None
+UF002,20-29,Nulliparous,Tertiary,Menorrhagia,18-20 weeks,Submucous,Total Abdominal Hysterectomy,None
+UF003,20-29,Nulliparous,Tertiary,Abdominal Mass,>20 weeks,Subserosal,Myomectomy,None
+UF004,40-49,Nulliparous,No Formal Education,Abdominal Mass,18-20 weeks,Submucous,Myomectomy,None
+UF005,30-39,Nulliparous,Tertiary,Abdominal Mass,15-17 weeks,Intramural,Myomectomy,Anaemia
+UF006,20-29,Nulliparous,Tertiary,Abdominal Mass,12-14 weeks,Submucous,Myomectomy,Anaemia
+UF007,30-39,Nulliparous,Tertiary,Abdominal Pain,15-17 weeks,Cervical,Myomectomy + Tuboplasty,Wound Dehiscence
+UF008,20-29,Multiparous,Secondary,Abdominal Mass,>20 weeks,Subserosal,Myomectomy,None
+UF009,30-39,Nulliparous,Secondary,Infertility,>20 weeks,Intramural,Myomectomy,None
+UF010,30-39,Nulliparous,No Formal Education,Infertility,12-14 weeks,Submucous,Myomectomy,None
+UF011,20-29,Multiparous,No Formal Education,Infertility,12-14 weeks,Subserosal,Myomectomy,Wound Infection
+UF012,50+,Nulliparous,Primary,Menorrhagia,15-17 weeks,Submucous,Myomectomy,None
+UF013,20-29,Nulliparous,Tertiary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,None
+UF014,40-49,Nulliparous,Tertiary,Abdominal Mass,15-17 weeks,Submucous,Myomectomy,None
+UF015,40-49,Nulliparous,Primary,Menorrhagia,12-14 weeks,Submucous,Myomectomy,None
+UF016,20-29,Nulliparous,Primary,Abdominal Mass,18-20 weeks,Cervical,Myomectomy,Anaemia
+UF017,40-49,Nulliparous,Secondary,Menorrhagia,15-17 weeks,Submucous,Myomectomy + Tuboplasty,None
+UF018,20-29,Multiparous,Tertiary,Abdominal Mass,15-17 weeks,Intramural,Myomectomy,None
+UF019,30-39,Nulliparous,Tertiary,Menorrhagia,12-14 weeks,Subserosal,Myomectomy,Anaemia
+UF020,20-29,Nulliparous,Secondary,Abdominal Pain,15-17 weeks,Subserosal,Myomectomy,Anaemia
+UF021,20-29,Nulliparous,Tertiary,Abdominal Mass,15-17 weeks,Intramural,Myomectomy,None
+UF022,30-39,Primiparous,Tertiary,Menorrhagia,18-20 weeks,Subserosal,Myomectomy,Anaemia
+UF023,30-39,Nulliparous,Primary,Menorrhagia,15-17 weeks,Submucous,Myomectomy,None
+UF024,30-39,Primiparous,Primary,Menorrhagia,>20 weeks,Subserosal,Myomectomy,None
+UF025,30-39,Primiparous,Primary,Abdominal Pain,15-17 weeks,Submucous,Myomectomy,None
+UF026,30-39,Nulliparous,Secondary,Abdominal Mass,12-14 weeks,Subserosal,Myomectomy,None
+UF027,20-29,Nulliparous,Tertiary,Menorrhagia,18-20 weeks,Submucous,Myomectomy,None
+UF028,30-39,Nulliparous,Tertiary,Menorrhagia,>20 weeks,Submucous,Vaginal Polypectomy,None
+UF029,30-39,Nulliparous,Tertiary,Abdominal Mass,15-17 weeks,Cervical,Myomectomy,None
+UF030,30-39,Primiparous,Tertiary,Infertility,18-20 weeks,Submucous,Myomectomy,None
+UF031,40-49,Nulliparous,Primary,Infertility,15-17 weeks,Submucous,Myomectomy,None
+UF032,30-39,Multiparous,Tertiary,Abdominal Mass,12-14 weeks,Submucous,Myomectomy,Anaemia
+UF033,20-29,Nulliparous,Primary,Infertility,18-20 weeks,Intramural,Myomectomy,Wound Dehiscence
+UF034,50+,Nulliparous,Tertiary,Menorrhagia,12-14 weeks,Submucous,Myomectomy,Wound Infection
+UF035,20-29,Nulliparous,Tertiary,Menorrhagia,15-17 weeks,Intramural,Myomectomy,None
+UF036,30-39,Nulliparous,Primary,Infertility,15-17 weeks,Intramural,Total Abdominal Hysterectomy,None
+UF037,50+,Nulliparous,Tertiary,Menorrhagia,15-17 weeks,Subserosal,Myomectomy,None
+UF038,40-49,Primiparous,Secondary,Abdominal Pain,15-17 weeks,Intramural,Myomectomy,None
+UF039,20-29,Nulliparous,Tertiary,Abdominal Mass,>20 weeks,Intramural,Myomectomy,None
+UF040,30-39,Nulliparous,Secondary,Abdominal Mass,>20 weeks,Submucous,Myomectomy,None
+UF041,40-49,Nulliparous,Secondary,Infertility,15-17 weeks,Submucous,Myomectomy,None
+UF042,20-29,Primiparous,Secondary,Abdominal Pain,>20 weeks,Intramural,Myomectomy,None
+UF043,30-39,Nulliparous,Tertiary,Infertility,18-20 weeks,Submucous,Myomectomy,None
+UF044,30-39,Nulliparous,Primary,Menorrhagia,12-14 weeks,Intramural,Myomectomy,Anaemia
+UF045,50+,Primiparous,Tertiary,Abdominal Pain,18-20 weeks,Intramural,Total Abdominal Hysterectomy,Anaemia
+UF046,30-39,Multiparous,Secondary,Abdominal Pain,12-14 weeks,Submucous,Myomectomy,Anaemia
+UF047,30-39,Nulliparous,Secondary,Menorrhagia,12-14 weeks,Intramural,Myomectomy,None
+UF048,30-39,Nulliparous,Secondary,Menorrhagia,15-17 weeks,Intramural,Myomectomy,None
+UF049,30-39,Primiparous,Tertiary,Abdominal Pain,>20 weeks,Submucous,Myomectomy,None
+UF050,30-39,Multiparous,Primary,Menorrhagia,18-20 weeks,Subserosal,Myomectomy,None
+UF051,20-29,Multiparous,Tertiary,Abdominal Mass,12-14 weeks,Intramural,Myomectomy,Wound Dehiscence
+UF052,50+,Nulliparous,Secondary,Infertility,12-14 weeks,Submucous,Total Abdominal Hysterectomy,None
+UF053,20-29,Primiparous,Secondary,Menorrhagia,>20 weeks,Submucous,Myomectomy + Tuboplasty,Anaemia
+UF054,30-39,Nulliparous,Primary,Infertility,18-20 weeks,Intramural,Total Abdominal Hysterectomy,None
+UF055,30-39,Nulliparous,Tertiary,Abdominal Pain,15-17 weeks,Submucous,Myomectomy,None
+UF056,30-39,Nulliparous,Tertiary,Abdominal Mass,>20 weeks,Submucous,Myomectomy,None
+UF057,50+,Nulliparous,Primary,Abdominal Pain,18-20 weeks,Intramural,Myomectomy,Wound Infection
+UF058,40-49,Multiparous,Tertiary,Abdominal Pain,18-20 weeks,Submucous,Myomectomy,None
+UF059,30-39,Nulliparous,Tertiary,Menorrhagia,15-17 weeks,Subserosal,Myomectomy,None
+UF060,20-29,Multiparous,Primary,Abdominal Pain,12-14 weeks,Submucous,Myomectomy,None
+UF061,30-39,Primiparous,Primary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,None
+UF062,20-29,Nulliparous,Secondary,Infertility,>20 weeks,Submucous,Myomectomy,None
+UF063,40-49,Primiparous,Primary,Infertility,12-14 weeks,Intramural,Myomectomy,None
+UF064,30-39,Nulliparous,Primary,Abdominal Pain,>20 weeks,Subserosal,Myomectomy,Anaemia
+UF065,20-29,Primiparous,Tertiary,Menorrhagia,12-14 weeks,Intramural,Myomectomy,None
+UF066,20-29,Primiparous,Primary,Abdominal Pain,>20 weeks,Intramural,Myomectomy,None
+UF067,40-49,Primiparous,No Formal Education,Infertility,15-17 weeks,Intramural,Total Abdominal Hysterectomy,None
+UF068,40-49,Nulliparous,Primary,Abdominal Mass,12-14 weeks,Intramural,Total Abdominal Hysterectomy,None
+UF069,30-39,Nulliparous,No Formal Education,Menorrhagia,18-20 weeks,Subserosal,Myomectomy,Anaemia
+UF070,30-39,Nulliparous,Primary,Abdominal Mass,12-14 weeks,Intramural,Myomectomy,None
+UF071,50+,Nulliparous,No Formal Education,Abdominal Pain,>20 weeks,Subserosal,Total Abdominal Hysterectomy,Anaemia
+UF072,30-39,Multiparous,Primary,Menorrhagia,>20 weeks,Subserosal,Myomectomy,None
+UF073,20-29,Nulliparous,Tertiary,Infertility,15-17 weeks,Submucous,Myomectomy,Wound Infection
+UF074,40-49,Nulliparous,Secondary,Abdominal Mass,12-14 weeks,Intramural,Myomectomy,Anaemia
+UF075,30-39,Multiparous,Secondary,Menorrhagia,12-14 weeks,Subserosal,Myomectomy,None
+UF076,30-39,Nulliparous,Secondary,Abdominal Pain,18-20 weeks,Subserosal,Total Abdominal Hysterectomy,None
+UF077,40-49,Nulliparous,Secondary,Infertility,18-20 weeks,Intramural,Myomectomy,None
+UF078,30-39,Nulliparous,Tertiary,Infertility,>20 weeks,Intramural,Myomectomy,Wound Infection
+UF079,30-39,Nulliparous,Tertiary,Menorrhagia,>20 weeks,Intramural,Myomectomy,None
+UF080,30-39,Nulliparous,Secondary,Menorrhagia,>20 weeks,Intramural,Total Abdominal Hysterectomy,None
+UF081,30-39,Primiparous,Tertiary,Menorrhagia,15-17 weeks,Subserosal,Myomectomy,Anaemia
+UF082,30-39,Nulliparous,Primary,Infertility,>20 weeks,Intramural,Myomectomy,None
+UF083,20-29,Nulliparous,No Formal Education,Infertility,18-20 weeks,Intramural,Myomectomy,Anaemia
+UF084,20-29,Primiparous,Tertiary,Menorrhagia,>20 weeks,Intramural,Myomectomy,Anaemia
+UF085,30-39,Nulliparous,Primary,Abdominal Pain,15-17 weeks,Subserosal,Myomectomy,None
+UF086,30-39,Nulliparous,Secondary,Abdominal Mass,>20 weeks,Submucous,Myomectomy + Tuboplasty,None
+UF087,50+,Primiparous,Tertiary,Menorrhagia,18-20 weeks,Subserosal,Myomectomy,None
+UF088,30-39,Primiparous,Tertiary,Menorrhagia,12-14 weeks,Intramural,Myomectomy,None
+UF089,30-39,Primiparous,Secondary,Infertility,15-17 weeks,Submucous,Myomectomy,None
+UF090,40-49,Nulliparous,Primary,Abdominal Mass,12-14 weeks,Subserosal,Myomectomy,None
+UF091,30-39,Primiparous,Tertiary,Abdominal Pain,>20 weeks,Submucous,Myomectomy,None
+UF092,40-49,Primiparous,Secondary,Abdominal Mass,>20 weeks,Submucous,Total Abdominal Hysterectomy,Wound Infection
+UF093,30-39,Primiparous,Secondary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,None
+UF094,20-29,Nulliparous,Primary,Menorrhagia,12-14 weeks,Submucous,Myomectomy,Anaemia
+UF095,50+,Primiparous,Secondary,Menorrhagia,15-17 weeks,Intramural,Myomectomy,None
+UF096,30-39,Multiparous,Tertiary,Menorrhagia,>20 weeks,Intramural,Myomectomy,None
+UF097,20-29,Nulliparous,Tertiary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,Anaemia
+UF098,40-49,Multiparous,No Formal Education,Menorrhagia,12-14 weeks,Subserosal,Myomectomy,None
+UF099,20-29,Primiparous,Tertiary,Menorrhagia,18-20 weeks,Intramural,Total Abdominal Hysterectomy,Anaemia
+UF100,20-29,Nulliparous,Secondary,Abdominal Pain,18-20 weeks,Submucous,Total Abdominal Hysterectomy,Wound Infection
+UF101,50+,Primiparous,Tertiary,Menorrhagia,18-20 weeks,Subserosal,Myomectomy,None
+UF102,30-39,Nulliparous,Tertiary,Infertility,>20 weeks,Intramural,Total Abdominal Hysterectomy,None
+UF103,30-39,Nulliparous,Primary,Abdominal Mass,15-17 weeks,Subserosal,Myomectomy,None
+UF104,50+,Multiparous,Tertiary,Menorrhagia,18-20 weeks,Subserosal,Myomectomy,None
+UF105,30-39,Nulliparous,Secondary,Abdominal Pain,18-20 weeks,Intramural,Myomectomy,None
+UF106,50+,Nulliparous,No Formal Education,Infertility,18-20 weeks,Intramural,Myomectomy,Anaemia
+UF107,30-39,Primiparous,Primary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,None
+UF108,40-49,Nulliparous,Tertiary,Menorrhagia,18-20 weeks,Submucous,Myomectomy,None
+UF109,40-49,Nulliparous,Secondary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,Anaemia
+UF110,30-39,Nulliparous,Tertiary,Abdominal Mass,>20 weeks,Subserosal,Myomectomy,None
+UF111,20-29,Nulliparous,Tertiary,Menorrhagia,18-20 weeks,Submucous,Myomectomy,Anaemia
+UF112,30-39,Nulliparous,Tertiary,Abdominal Mass,12-14 weeks,Submucous,Myomectomy,None
+UF113,30-39,Nulliparous,Secondary,Infertility,18-20 weeks,Submucous,Myomectomy,Wound Infection
+UF114,40-49,Primiparous,Secondary,Abdominal Pain,>20 weeks,Submucous,Myomectomy,None
+UF115,30-39,Primiparous,Tertiary,Infertility,12-14 weeks,Submucous,Myomectomy,None
+UF116,30-39,Primiparous,Primary,Menorrhagia,>20 weeks,Intramural,Myomectomy,Anaemia
+UF117,20-29,Nulliparous,Tertiary,Abdominal Mass,15-17 weeks,Subserosal,Myomectomy,None
+UF118,30-39,Nulliparous,Tertiary,Menorrhagia,12-14 weeks,Intramural,Myomectomy,None
+UF119,30-39,Nulliparous,Secondary,Abdominal Mass,15-17 weeks,Intramural,Myomectomy,None
+UF120,20-29,Nulliparous,Tertiary,Abdominal Mass,18-20 weeks,Intramural,Myomectomy,None
+UF121,30-39,Nulliparous,Tertiary,Infertility,15-17 weeks,Intramural,Myomectomy,Anaemia
+UF122,40-49,Nulliparous,Tertiary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,Anaemia
+UF123,30-39,Primiparous,Primary,Menorrhagia,15-17 weeks,Submucous,Myomectomy,None
+UF124,30-39,Primiparous,Tertiary,Menorrhagia,12-14 weeks,Intramural,Myomectomy,Anaemia
+UF125,20-29,Multiparous,Secondary,Menorrhagia,12-14 weeks,Intramural,Myomectomy,None
+UF126,30-39,Nulliparous,Secondary,Menorrhagia,15-17 weeks,Intramural,Myomectomy,None
+UF127,40-49,Multiparous,Primary,Abdominal Pain,15-17 weeks,Subserosal,Myomectomy,None
+UF128,30-39,Nulliparous,Primary,Abdominal Pain,>20 weeks,Intramural,Myomectomy,None
+UF129,30-39,Multiparous,Secondary,Abdominal Pain,18-20 weeks,Subserosal,Myomectomy,None
+UF130,20-29,Nulliparous,Secondary,Menorrhagia,15-17 weeks,Subserosal,Myomectomy,Wound Infection
+UF131,30-39,Multiparous,Tertiary,Infertility,18-20 weeks,Intramural,Myomectomy,Wound Infection
+UF132,30-39,Nulliparous,Tertiary,Infertility,15-17 weeks,Intramural,Myomectomy,None
+UF133,40-49,Primiparous,Secondary,Abdominal Mass,>20 weeks,Subserosal,Total Abdominal Hysterectomy,None
+UF134,40-49,Nulliparous,Primary,Abdominal Mass,18-20 weeks,Submucous,Total Abdominal Hysterectomy,None
+UF135,20-29,Nulliparous,Secondary,Menorrhagia,15-17 weeks,Intramural,Myomectomy,Anaemia
+UF136,50+,Nulliparous,Tertiary,Abdominal Mass,>20 weeks,Submucous,Myomectomy,Anaemia
+UF137,30-39,Nulliparous,Tertiary,Abdominal Mass,12-14 weeks,Intramural,Myomectomy,None
+UF138,30-39,Multiparous,Tertiary,Menorrhagia,18-20 weeks,Submucous,Myomectomy,Anaemia
+UF139,30-39,Nulliparous,Primary,Abdominal Mass,18-20 weeks,Subserosal,Myomectomy,None
+UF140,40-49,Nulliparous,Primary,Abdominal Mass,18-20 weeks,Intramural,Myomectomy,None
+UF141,20-29,Primiparous,Primary,Menorrhagia,15-17 weeks,Intramural,Myomectomy,Anaemia
+UF142,20-29,Nulliparous,Primary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,Anaemia
+UF143,30-39,Nulliparous,Tertiary,Infertility,18-20 weeks,Intramural,Total Abdominal Hysterectomy,Anaemia
+UF144,30-39,Nulliparous,Secondary,Abdominal Mass,15-17 weeks,Intramural,Myomectomy,None
+UF145,30-39,Primiparous,Tertiary,Abdominal Pain,18-20 weeks,Subserosal,Total Abdominal Hysterectomy,Wound Infection
+UF146,20-29,Nulliparous,No Formal Education,Abdominal Mass,>20 weeks,Intramural,Myomectomy,Wound Dehiscence
+UF147,30-39,Multiparous,Tertiary,Abdominal Mass,>20 weeks,Submucous,Myomectomy,None
+UF148,20-29,Primiparous,Tertiary,Abdominal Mass,>20 weeks,Subserosal,Myomectomy,None
+UF149,30-39,Nulliparous,Secondary,Menorrhagia,>20 weeks,Submucous,Myomectomy + Tuboplasty,None
+UF150,30-39,Multiparous,Primary,Menorrhagia,>20 weeks,Submucous,Myomectomy,None
+UF151,20-29,Multiparous,Secondary,Menorrhagia,12-14 weeks,Submucous,Myomectomy,Anaemia
+UF152,30-39,Primiparous,Tertiary,Abdominal Mass,12-14 weeks,Submucous,Myomectomy + Tuboplasty,None
+UF153,30-39,Nulliparous,Tertiary,Menorrhagia,18-20 weeks,Submucous,Myomectomy,None
+UF154,30-39,Nulliparous,No Formal Education,Menorrhagia,18-20 weeks,Submucous,Myomectomy,None
+UF155,20-29,Primiparous,Secondary,Menorrhagia,>20 weeks,Subserosal,Total Abdominal Hysterectomy,None
+UF156,30-39,Primiparous,Primary,Menorrhagia,18-20 weeks,Submucous,Myomectomy,Anaemia
+UF157,50+,Nulliparous,Secondary,Infertility,18-20 weeks,Submucous,Myomectomy,None
+UF158,50+,Nulliparous,Tertiary,Abdominal Pain,18-20 weeks,Intramural,Myomectomy,None
+UF159,30-39,Nulliparous,Tertiary,Abdominal Mass,12-14 weeks,Intramural,Myomectomy,None
+UF160,50+,Multiparous,Tertiary,Menorrhagia,12-14 weeks,Submucous,Myomectomy,None
+UF161,20-29,Nulliparous,Secondary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,None
+UF162,40-49,Primiparous,Tertiary,Menorrhagia,15-17 weeks,Intramural,Total Abdominal Hysterectomy,None
+UF163,30-39,Nulliparous,Primary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,None
+UF164,50+,Nulliparous,Primary,Abdominal Mass,12-14 weeks,Intramural,Myomectomy,Anaemia
+UF165,20-29,Nulliparous,Secondary,Abdominal Pain,>20 weeks,Submucous,Myomectomy,None
+UF166,20-29,Multiparous,Tertiary,Menorrhagia,15-17 weeks,Subserosal,Myomectomy,None
+UF167,30-39,Nulliparous,Primary,Infertility,18-20 weeks,Subserosal,Myomectomy,Wound Infection
+UF168,40-49,Primiparous,Tertiary,Abdominal Mass,18-20 weeks,Submucous,Myomectomy,None
+UF169,30-39,Primiparous,Tertiary,Infertility,12-14 weeks,Subserosal,Myomectomy,None
+UF170,30-39,Nulliparous,Tertiary,Menorrhagia,18-20 weeks,Subserosal,Total Abdominal Hysterectomy,None
+UF171,30-39,Nulliparous,Tertiary,Infertility,18-20 weeks,Submucous,Myomectomy,None
+UF172,50+,Nulliparous,Primary,Abdominal Pain,15-17 weeks,Submucous,Myomectomy,None
+UF173,40-49,Nulliparous,Secondary,Menorrhagia,18-20 weeks,Intramural,Myomectomy,None
+UF174,20-29,Nulliparous,Primary,Abdominal Mass,18-20 weeks,Intramural,Myomectomy,None
+UF175,30-39,Nulliparous,Secondary,Abdominal Mass,12-14 weeks,Intramural,Myomectomy,None
+UF176,50+,Nulliparous,Tertiary,Menorrhagia,12-14 weeks,Submucous,Myomectomy,None
+UF177,40-49,Primiparous,No Formal Education,Abdominal Mass,18-20 weeks,Intramural,Total Abdominal Hysterectomy,Anaemia
+UF178,30-39,Nulliparous,Primary,Infertility,18-20 weeks,Submucous,Myomectomy,Anaemia
+UF179,30-39,Nulliparous,Tertiary,Abdominal Mass,12-14 weeks,Intramural,Myomectomy,None
+UF180,30-39,Primiparous,Tertiary,Infertility,12-14 weeks,Subserosal,Myomectomy,None
+UF181,20-29,Multiparous,Tertiary,Infertility,15-17 weeks,Subserosal,Myomectomy,None
+UF182,20-29,Nulliparous,Tertiary,Abdominal Mass,>20 weeks,Intramural,Myomectomy + Tuboplasty,None
+UF183,20-29,Nulliparous,Tertiary,Abdominal Mass,12-14 weeks,Submucous,Myomectomy,Anaemia
+UF184,30-39,Multiparous,Secondary,Infertility,15-17 weeks,Intramural,Myomectomy,None
+UF185,40-49,Nulliparous,No Formal Education,Infertility,18-20 weeks,Submucous,Myomectomy,None
+UF186,20-29,Multiparous,Tertiary,Infertility,15-17 weeks,Intramural,Myomectomy,None
+UF187,30-39,Multiparous,Tertiary,Abdominal Pain,15-17 weeks,Submucous,Myomectomy,None
+UF188,40-49,Primiparous,Tertiary,Abdominal Pain,12-14 weeks,Intramural,Myomectomy,None
+UF189,20-29,Nulliparous,Secondary,Menorrhagia,>20 weeks,Submucous,Myomectomy,None
+UF190,50+,Nulliparous,Secondary,Abdominal Mass,12-14 weeks,Submucous,Myomectomy,None
+UF191,20-29,Primiparous,Tertiary,Menorrhagia,>20 weeks,Intramural,Total Abdominal Hysterectomy,Anaemia
+UF192,30-39,Primiparous,Primary,Menorrhagia,12-14 weeks,Submucous,Myomectomy,None
+UF193,30-39,Nulliparous,Primary,Infertility,12-14 weeks,Submucous,Myomectomy,None
+UF194,30-39,Nulliparous,Tertiary,Menorrhagia,15-17 weeks,Subserosal,Myomectomy,None
+UF195,50+,Primiparous,Tertiary,Abdominal Mass,18-20 weeks,Subserosal,Myomectomy + Tuboplasty,None
+UF196,20-29,Nulliparous,Primary,Infertility,12-14 weeks,Submucous,Myomectomy + Tuboplasty,None
+UF197,20-29,Primiparous,Tertiary,Abdominal Pain,12-14 weeks,Submucous,Myomectomy,None
+UF198,40-49,Nulliparous,Primary,Menorrhagia,15-17 weeks,Subserosal,Myomectomy,None
